@@ -22,10 +22,6 @@ This repo contains my personal DSA preparation journey categorized into topics s
 | 12 | Graphs           |
 |----|------------------|
 
-## ✍️ Sheet Progress
-
-Track progress in [`sheet.md`](./sheet.md)
-
 ## 👨‍💻 Languages Used
 
 - C++
