@@ -1,7 +1,7 @@
 // Problem: to find the longest subarray with sum k
 // Approach: using prefix sum array and unordered map
-// Time complexity:
-// Space complexity:
+// Time complexity:O(n)
+// Space complexity:O(n)
 
 #include<bits/stdc++.h>
 using namespace std;
